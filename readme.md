@@ -1,12 +1,12 @@
 ### GeeksForGeeks
 
 1. [Logic Building](doc/logic-building.md)
-2. Learn about Complexities
-3. Array
-4. Searching Algorithms
-5. Sorting Algorithms
-6. Hashing
-7. Two Pointer Technique
+2. [Learn about Complexities](doc/learn-about-complexities.md)
+3. [Array](doc/array.md)
+4. [Searching Algorithms](doc/searching-algorithms.md)
+5. [Sorting Algorithms](doc/sorting-algorithms.md)
+6. [Hashing](doc/hashing.md)
+7. [Two Pointer Technique](doc/two-pointer-technique.md)
 8. Window Sliding Technique
 9. Prefix Sum Technique
 10. String
