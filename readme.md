@@ -7,17 +7,17 @@
 5. [Sorting Algorithms](doc/sorting-algorithms.md)
 6. [Hashing](doc/hashing.md)
 7. [Two Pointer Technique](doc/two-pointer-technique.md)
-8. Window Sliding Technique
-9. Prefix Sum Technique
-10. String
-11. Recursion
-12. Matrix/Grid
-13. Linked List
-14. Stack
-15. Queue
-16. Deque
-17. Tree
-18. Heap
+8. [Window Sliding Technique](doc/window-sliding-technique.md)
+9. [Prefix Sum Technique](doc/prefix-sum-technique.md)
+10. [String](doc/string.md)
+11. [Recursion](doc/recursion.md)
+12. [Matrix/Grid](doc/matrix-grid.md)
+13. [Linked List](doc/linked-list.md)
+14. [Stack](doc/stack.md)
+15. [Queue](doc/queue.md)
+16. [Deque](doc/deque.md)
+17. [Tree](doc/tree.md)
+18. [Heap](doc/heap.md)
 19. Graph
 20. Greedy Algorithm
 21. Dynamic Programming
