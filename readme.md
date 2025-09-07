@@ -18,18 +18,18 @@
 16. [Deque](doc/deque.md)
 17. [Tree](doc/tree.md)
 18. [Heap](doc/heap.md)
-19. Graph
-20. Greedy Algorithm
-21. Dynamic Programming
-22. Pattern Searching
-23. Trie
-24. Segment Tree
-25. Red-Black Tree
-26. Binary Indexed Tree
-27. Bitwise Algorithms
-28. Backtracking Algorithms
-29. Divide and Conquer
-30. Branch and Bound Algorithm
-31. Mathematical Algorithms
-32. Geometric Algorithms
-33. Randomized Algorithms
+19. [Graph](doc/graph.md)
+20. [Greedy Algorithm](doc/greedy-algorithm.md)
+21. [Dynamic Programming](doc/dynamic-programming.md)
+22. [Pattern Searching](doc/pattern-searching.md)
+23. [Trie](doc/trie.md)
+24. [Segment Tree](doc/segment-tree.md)
+25. [Red-Black Tree](doc/red-black-tree.md)
+26. [Binary Indexed Tree](doc/binary-indexed-tree.md)
+27. [Bitwise Algorithms](doc/bitwise-algorithms.md)
+28. [Backtracking Algorithms](doc/backtracking-algorithms.md)
+29. [Divide and Conquer](doc/divide-and-conquer.md)
+30. [Branch and Bound Algorithm](doc/branch-and-bound-algorithm.md)
+31. [Mathematical Algorithms](doc/mathematical-algorithms.md)
+32. [Geometric Algorithms](doc/geometric-algorithms.md)
+33. [Randomized Algorithms](doc/randomized-algorithms.md)
