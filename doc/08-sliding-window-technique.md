@@ -1,4 +1,4 @@
-### Window Sliding Technique
+### Sliding Window Technique
 
 [_Back to GeeksForGeeks_](../readme.md)
 
