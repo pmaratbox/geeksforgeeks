@@ -2,7 +2,7 @@
 
 - java code:
 
-```
+```java
 public class Queue {
     private int[] array;
     private int size;
