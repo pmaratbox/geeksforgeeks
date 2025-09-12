@@ -10,7 +10,7 @@ public class Queue {
 
     public Queue() {
         capacity = 10; // initial capacity
-        q = new int[capacity];
+        array = new int[capacity];
         size = 0;
     }
 
@@ -22,13 +22,13 @@ public class Queue {
         if (size == capacity) {
             throw new IllegalArgumentException();
         }
-        q[size++] = x;
+        array[size++] = x;
     }
 
     public void dequeue() {
         if (!isEmpty()) {
             for (int i = 1; i < size; i++) {
-                q[i - 1] = q[i];
+                array[i - 1] = array[i];
             }
             size--;
         }
@@ -40,7 +40,7 @@ public class Queue {
 
     public void display() {
         for (int i = 0; i < size; i++) {
-            System.out.print(q[i] + " ");
+            System.out.print(array[i] + " ");
         }
         System.out.println();
     }
