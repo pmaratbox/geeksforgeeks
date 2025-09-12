@@ -3,7 +3,7 @@
 [_Back to GeeksForGeeks_](../readme.md)
 
 #### Basics
-1. [Simple Array Implementation]()
+1. [Simple Array Implementation](queue/basics/simple-array-implementation.md)
 2. [Circular Array Implementation]()
 3. [Linked List Implementation]()
 
