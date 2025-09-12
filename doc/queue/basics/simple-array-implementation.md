@@ -1,8 +1,8 @@
 ### Simple Array Implementation
 
-- Java code:
+- java code:
 
-```java
+```
 public class Queue {
     private int[] array;
     private int size;
@@ -56,4 +56,46 @@ public class Queue {
         q.display();
     }
 }
+```
+
+- python code
+```python
+class Queue:
+    def __init__(self):
+        self.capacity = 10  # initial capacity
+        self.array = [0] * self.capacity
+        self.size = 0
+
+    def is_empty(self):
+        return self.size == 0
+
+    def enqueue(self, x):
+        if self.size == self.capacity:
+            raise ValueError("Queue is full")
+        self.array[self.size] = x
+        self.size += 1
+
+    def dequeue(self):
+        if not self.is_empty():
+            for i in range(1, self.size):
+                self.array[i - 1] = self.array[i]
+            self.size -= 1
+
+    def get_front(self):
+        return -1 if self.is_empty() else self.array[0]
+
+    def display(self):
+        for i in range(self.size):
+            print(self.array[i], end=" ")
+        print()
+
+if __name__ == "__main__":
+    q = Queue()
+    q.enqueue(1)
+    q.enqueue(2)
+    q.enqueue(3)
+    print(q.get_front())
+    q.dequeue()
+    q.enqueue(4)
+    q.display()
 ```
